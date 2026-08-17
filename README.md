@@ -1,19 +1,9 @@
 # The Spirit Bureau
 
-A luxury editorial-style landing page for GitHub Pages.
+GitHub Pages-ready luxury editorial landing page.
 
-## Publish with GitHub Pages
+All visual assets are stored locally in `assets/`, including the Spirit Bureau logo, so the site does not depend on external image hosting.
 
-1. Create a new GitHub repository (for example `spirit-bureau`).
-2. Upload everything in this folder, including the `assets` folder.
-3. In GitHub, open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select `main` and `/ (root)`, then save.
-6. GitHub will give you the live Pages URL.
+## GitHub update
 
-## Customize
-
-- Replace the three Unsplash image URLs in `styles.css` with your own photography.
-- Replace the sample project names/text in `index.html`.
-- Change `hello@spiritbureau.com` to your actual email.
-- Replace the Instagram and LinkedIn `#` links with your profiles.
+Replace the existing repository files with the files in this folder. Keep `index.html` at the repository root and upload the entire `assets` folder.
